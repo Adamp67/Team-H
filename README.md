@@ -1,2 +1,2 @@
-# Team-Haych
+# Team-Haych Django
 Django Project
